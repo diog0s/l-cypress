@@ -10,6 +10,10 @@
   "author": "Diogo Santos",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^8.0.0"
+    "cypress": "^4.1.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
   }
+
 }
